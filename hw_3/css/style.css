@@ -133,7 +133,7 @@ header{
     background: linear-gradient(to bottom,  #5e5e5e 0%,#2e2e2e 100%); 
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e5e5e', endColorstr='#2e2e2e',GradientType=0 );
 }
-/
+
 aside{
     margin-top: 40px;
 }
